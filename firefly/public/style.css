@@ -1,0 +1,28 @@
+a:link {
+  color: green;
+}
+a:visited {
+  color: red;
+}
+a:hover{
+  color: red;
+}
+a:active {
+  color: yellow;
+}
+
+body {
+  margin: 0;
+  background-image: url(../img/ship.jpeg);
+  background-size: 1440px 800px;
+  background-repeat:repeat;
+  display: compact;
+  font-family: Georgia, Times, serif;
+  color: #660000;
+}
+
+img{
+  float:right;
+  padding:1px;
+  border:1px solid #660000;
+}
