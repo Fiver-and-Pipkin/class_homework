@@ -1,0 +1,12 @@
+#flavors {
+  display: none;
+}
+
+.flavors {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.flavors:hover {
+  text-decoration: underline;
+}
